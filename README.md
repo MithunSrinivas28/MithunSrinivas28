@@ -23,5 +23,4 @@ you’ll find some projects here. some work, some don’t. that’s part of it�
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithunsrinivas28&show_icons=true&locale=en&layout=compact" alt="mithunsrinivas28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithunsrinivas28&" alt="mithunsrinivas28" /></p>
 
