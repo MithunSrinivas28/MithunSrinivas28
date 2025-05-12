@@ -1,5 +1,5 @@
 
-<!---
+
 MithunSrinivas28/MithunSrinivas### [Mithun S]
 
 i work with code and hardware.  
@@ -8,11 +8,15 @@ not big on buzzwords — just building, breaking, and learning.
 
 you’ll find some projects here. some work, some don’t. that’s part of it👍.
 
---->
+
 
 
 <h1 align="center">Hi , I'm Mithun</h1>
-<h3 align="center">I'm currently learning Devops and embedded systems.</h3>
+<h3 align="center">Im learning devops and embedded systems  
+and figuring out how things actually work.  
+not big on buzzwords — just building, breaking, and learning.
+
+you’ll find some projects here. some work, some don’t. that’s part of it👍..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
