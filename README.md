@@ -7,7 +7,6 @@ not big on buzzwords — just building, breaking, and learning.
 
 you’ll find some projects here. some work, some don’t. that’s part of it👍..</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
