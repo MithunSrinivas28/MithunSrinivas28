@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi , I'm Mithun</h1>
-<h3 align="center">Im learning devops and embedded systems  
+<h3 align="center">Im learning devops,front end and embedded systems  
 and figuring out how things actually work.  
-not big on buzzwords — just building, breaking, and learning.
+not big on buzzwords ,just building, breaking, and learning.
 
-you’ll find some projects here. some work, some don’t. that’s part of it👍..</h3>
+you’ll find some projects here. some work, some don’t. that’s part of it👍.</h3>
 
 <p align="left">
 </p>
