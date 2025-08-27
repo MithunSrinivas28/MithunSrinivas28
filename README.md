@@ -9,7 +9,7 @@ Working with **React, Node.js, Docker, AWS**, while also diving into **Verilog a
 - **DevOps & Cloud** → Docker, AWS, CI/CD workflows    
 - **Core Electronics** → Verilog-based designs and embedded projects  
 
-Not big on buzzwords — just building, breaking, and learning.
+Not big on buzzwords just building, breaking, and learning.
 
 <p align="left">
 </p>
