@@ -1,16 +1,15 @@
 
+# Hi, I'm Mithun 👋
 
-<h1 align="center">Hi , I'm Mithun</h1>
-<h3 align="center">exploring **frontend, DevOps, ML, and core electronics** — and putting that knowledge into practice.  
+Exploring **frontend, DevOps, ML, and core electronics** — and putting that knowledge into practice.  
 Working with **React, Node.js, Docker, AWS**, while also diving into **Verilog and embedded systems**.  
 
-### Areas I explore
+## 🔎 Areas I Explore
 - **Frontend & Full-stack** → React, Node.js, REST APIs  
 - **DevOps & Cloud** → Docker, AWS, CI/CD workflows    
-- **Core Electronics** → Verilog-based designs, FPGA graphics, embedded projects
-  
-not big on buzzwords ,just building, breaking, and learning.
-</h3>
+- **Core Electronics** → Verilog-based designs, FPGA graphics, embedded projects  
+
+Not big on buzzwords — just building, breaking, and learning.
 
 <p align="left">
 </p>
