@@ -1,7 +1,7 @@
 
 # Hi, I'm Mithun 👋
 
-Exploring **frontend, DevOps, ML, and core electronics** — and putting that knowledge into practice.  
+Exploring **frontend, DevOps, ML, and core electronics**  and putting that knowledge into practice.  
 Working with **React, Node.js, Docker, AWS**, while also diving into **Verilog and embedded systems**.  
 
 ## 🔎 Areas I Explore
