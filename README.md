@@ -7,7 +7,7 @@ Working with **React, Node.js, Docker, AWS**, while also diving into **Verilog a
 ## 🔎 Areas I Explore
 - **Frontend & Full-stack** → React, Node.js, REST APIs  
 - **DevOps & Cloud** → Docker, AWS, CI/CD workflows    
-- **Core Electronics** → Verilog-based designs, FPGA graphics, embedded projects  
+- **Core Electronics** → Verilog-based designs and embedded projects  
 
 Not big on buzzwords — just building, breaking, and learning.
 
