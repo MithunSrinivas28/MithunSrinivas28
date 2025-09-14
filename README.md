@@ -9,7 +9,7 @@ Working with **React, Node.js, Docker, AWS**, while also diving into **Verilog a
 - **DevOps & Cloud** → Docker, AWS, CI/CD workflows    
 - **Core Electronics** → Verilog-based designs and embedded projects  
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
@@ -44,7 +44,7 @@ Working with **React, Node.js, Docker, AWS**, while also diving into **Verilog a
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+ </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
 
 
