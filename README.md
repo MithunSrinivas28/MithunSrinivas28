@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Code. Cloud. Circuits.
 ----------------------
 
-I’m Mithun , exploring how ML, full-stack, and DevOps come together.  
+I’m Mithun — exploring how ML, full-stack, and DevOps come together.  
 
 I work with **React, Node.js, Docker, and AWS**, while diving deeper into **machine learning and data-driven systems**.  
 
