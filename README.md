@@ -5,7 +5,6 @@ Code. Cloud. Circuits.
 ----------------------
 
 I’m Mithun — exploring how ML, full-stack, and DevOps come together.  
-
 I'm currently working on a Ml-Mern Project known as Fluxo-Supplychain Intelligence
 ---
 
