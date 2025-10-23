@@ -6,8 +6,7 @@ Code. Cloud. Circuits.
 
 I’m Mithun — exploring how ML, full-stack, and DevOps come together.  
 
-I work with **React, Node.js, Docker, and AWS**, while diving deeper into **machine learning and data-driven systems**.  
-
+I'm currently working on a Ml-Mern Project known as Fluxo-Supplychain Intelligence
 ---
 
 * ✉️  You can contact me at [mithunsrinivas28@gmail.com](mailto:mithunsrinivas28@gmail.com)  
