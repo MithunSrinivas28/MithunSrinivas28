@@ -6,6 +6,7 @@ Code. Cloud. Circuits.
 
 I’m Mithun — exploring how ML, full-stack, and DevOps come together.  
 I'm currently working on a Ml-Mern Project known as Fluxo-Supplychain Intelligence
+I'm also in the path of contributing to open source
 ---
 
 * ✉️  You can contact me at [mithunsrinivas28@gmail.com](mailto:mithunsrinivas28@gmail.com)  
