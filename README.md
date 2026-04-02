@@ -2,7 +2,7 @@
 
  # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />  My name is Mithun S
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+don't+do+frontend.+(okay+fine%2C+sometimes))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=I+don%27t+do+frontend.;Okay+fine%2C+sometimes.))](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-srinivas-3bba57306/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/Mithunsrinivas28)
