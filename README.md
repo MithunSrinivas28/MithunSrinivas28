@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> My name is Mithun S
+ # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />  My name is Mithun S
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+don't+do+frontend.+(okay+fine%2C+sometimes))](https://git.io/typing-svg)
 
